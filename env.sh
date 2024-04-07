@@ -1,0 +1,1 @@
+export CLASSPATH=$CLASSPATH:$(pwd)/algs4/algs4.jar
